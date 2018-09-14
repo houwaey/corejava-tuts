@@ -1,0 +1,35 @@
+Author: Houwaey
+Email: houwaey@gmail.com
+Company: Collabera (2018-2019)
+Date Created: July 2018
+
+<==========================================================================================>
+
+NOTE:
+
+If you want to update this source code, please read the ff:
+
+1) Follow the design pattern that has been used. So if you are not sure what pattern 
+	that I used, please don't touch anything.
+2) Follow the naming convention. Reading some Java naming convention might help.
+3) Don't add/update any method(s) unless it is badly needed.
+4) In case you've added new method(s), you need to document it using javadoc. 
+	(for the sake of other programmers that gonna handle this source code)
+5) You can put your name on the javadoc of the method you've added for reference. 
+	And put the version number. (ex: @since v1.0)
+6) And please avoid creating so many versions. Try to compile all the updates and release 
+	it into one version only.
+	
+<==========================================================================================>
+
+For future release:
+
+1) EncryptionUtil 	- for AES, 3DES, RSA, PGP, etc. encryption.
+2) EmailUtil 		- for validation of e-mail address and sending a mail.
+3) ExportUtil		- for exporting data. (to excel, csv, txt, etc.)
+4) ZipUtil			- for zipping or unzipping file/data.
+5) SftpUtil			- for sending/manipulation of files using sftp
+
+<==========================================================================================>
+
+ENJOY!!!

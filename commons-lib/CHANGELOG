@@ -1,0 +1,19 @@
+Author: Houwaey
+Email: houwaey@gmail.com
+Company: Collabera (2018-2019)
+Date Created: July 2018
+
+<==========================================================================================>
+
+Version: 			1.0 - First released / Beta
+Date Released: 		July 19, 2018
+Released details:
+	1) Base64 		- Used for base64 encoding/decoding.
+	2) DateUtil 	- Used to format, parse, convert or manipulate date/time.
+	3) Hash 		- Used to hash a string.
+	4) Hex			- Used for Hexadecimal encoding/decoding.
+	5) Logger		- Used for logging a string or throwable/exception.
+	6) StringUtil	- Used in string formatting / manipulation.
+	7) Util			- Used to format, validate and get data.
+	
+<==========================================================================================.
